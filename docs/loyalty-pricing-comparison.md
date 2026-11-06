@@ -1,6 +1,6 @@
 # Loyalty software pricing: compare the bill you will actually pay
 
-**Checked 7 November 2026. Maintained by UseLoyalty.** Vendor prices change. This is a comparison of published prices, not a claim that plans have identical features.
+**Checked 7 November 2026.** Vendor prices change. This is a comparison of published prices, not a claim that plans have identical features.
 
 The cheapest listed monthly price rarely answers the purchasing question. A useful comparison includes the number of orders or locations supported, the features you need now, add-ons, and the effort of launching a program customers will use.
 
@@ -20,7 +20,7 @@ Smile.io, LoyaltyLion, and Yotpo also publish free plans. For a small Shopify st
 
 ## What “10× less” can and cannot mean
 
-Smile.io lists Plus at **$999/month with annual billing**. UseLoyalty Growth is **$99/month with monthly billing**. The ratio is approximately 10.1 to 1. This is a valid comparison of two published prices; it is **not a like-for-like comparison**. Smile Plus is aimed at much larger Shopify brands and includes a different order allowance, service package, and API access. UseLoyalty's Enterprise plan is custom-priced. We recommend against using “10× cheaper than competitors” as a general headline.
+Smile.io lists Plus at **$999/month with annual billing**. UseLoyalty Growth is **$99/month with monthly billing**. The ratio is approximately 10.1 to 1. This is a valid comparison of two published prices; it is **not a like-for-like comparison**. Smile Plus is aimed at much larger Shopify brands and includes a different order allowance, service package, and API access. UseLoyalty's Enterprise plan is custom-priced. A general “10× cheaper than competitors” claim would overstate the evidence.
 
 The more useful message for a buyer is: **Launch a branded loyalty experience with the mechanics you need, then pay for the plan that fits your team.** UseLoyalty publishes its two standard prices, and you can test the customer journey before choosing a larger plan.
 

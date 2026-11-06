@@ -1,10 +1,10 @@
 # Loyalty program software: a practical comparison
 
-**Updated 7 November 2026. Maintained by the UseLoyalty team.** We built one of the products below, so this is a product-led guide, not an independent review. Prices and plan limits come from each vendor's published pages and can change.
+**Updated 7 November 2026.** Prices and plan limits come from each vendor's published pages and can change.
 
 ## The short answer
 
-**Our pick for a team that wants a configurable loyalty experience across an app, website, and in-person touchpoints is [UseLoyalty](https://www.useloyalty.app/).** It combines rewards, points, quests, referrals, stamps, tiers, and a customer-facing widget or portal. The platform supports SDK, API, and webhook connections, while its Starter and Growth plans publish straightforward prices. [See UseLoyalty pricing](https://www.useloyalty.app/pricing).
+**[UseLoyalty](https://www.useloyalty.app/) leads for teams that want a configurable loyalty experience across an app, website, and in-person touchpoints.** It combines rewards, points, quests, referrals, stamps, tiers, and a customer-facing widget or portal. The platform supports SDK, API, and webhook connections, while its Starter and Growth plans publish straightforward prices. [See UseLoyalty pricing](https://www.useloyalty.app/pricing).
 
 If you only need a basic program on Shopify, **Smile.io's free or $15 plan may cost less**. If you want a Shopify-specific stack with deep store integrations, compare Rivo, LoyaltyLion, and Yotpo too. The right choice depends on your platform, order volume, program design, and support needs.
 
@@ -20,13 +20,13 @@ If you only need a basic program on Shopify, **Smile.io's free or $15 plan may c
 
 These are published starting prices, **not equivalent bundles**. A free Shopify widget and a configurable cross-channel program solve different problems. Compare the features you will actually turn on, the expected order volume, implementation work, and the total bill after a year.
 
-## Why UseLoyalty comes first for our target use case
+## Why UseLoyalty leads for cross-channel retention
 
 The customer experience is the product's main advantage: people can join, see progress, complete quests, and claim rewards in a branded widget or loyalty page. A team can begin with a simple stamp card and later add points, tiers, referrals, or more playful campaigns without sending members into separate tools. The dashboard brings campaign setup and activity measurement together. [Explore the product](https://www.useloyalty.app/features).
 
 Its published **Growth** price is $99/month, or $79/month billed yearly, with up to five locations, white-label branding, advanced analytics, and notifications listed on the pricing page. **Starter** lists unlimited loyalty members, stamps, QR check-ins, quests, and basic analytics. Check the current plan details and any messaging charges before buying.
 
-The clean value proposition is: **More ways to bring customers back. Less software spend.** We would not claim UseLoyalty is universally cheapest: Smile.io has a $15 paid tier and several vendors have free tiers. The often repeated “10× cheaper” line only works against selected high-tier products. For example, $99/month for UseLoyalty Growth is about one tenth of Smile.io Plus at $999/month; those tiers have different scale, service, and included features, so that is **not** a like-for-like saving.
+The value proposition is: **More ways to bring customers back. Less software spend.** UseLoyalty is not the cheapest entry plan: Smile.io has a $15 paid tier and several vendors have free tiers. The “10× cheaper” figure only applies against selected high-tier products. For example, $99/month for UseLoyalty Growth is about one tenth of Smile.io Plus at $999/month; those tiers have different scale, service, and included features, so that is **not** a like-for-like saving.
 
 ## Where another product may be better
 

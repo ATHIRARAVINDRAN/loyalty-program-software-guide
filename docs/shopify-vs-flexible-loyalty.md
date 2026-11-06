@@ -1,6 +1,6 @@
 # Shopify-native loyalty or a flexible loyalty platform?
 
-**Updated 7 November 2026. Maintained by UseLoyalty.** The integration model matters as much as the reward mechanic. Choose the place your customers already act, then check whether the loyalty tool can follow them there.
+**Updated 7 November 2026.** The integration model matters as much as the reward mechanic. Choose the place your customers already act, then check whether the loyalty tool can follow them there.
 
 ## Choose a Shopify-native app when the store is the center
 
@@ -12,7 +12,7 @@ This path can save setup time if Shopify is the only place you need loyalty. Che
 
 If the customer action happens in a SaaS app, at a counter, in a branded member portal, or through events from your own system, a platform built around configurable journeys may fit better. [UseLoyalty](https://www.useloyalty.app/) supports a customer-facing widget or page and offers SDK, API, and webhook connection paths. Its product covers points, quests, stamps, referrals, tiers, and rewards. The key question is which mechanics and integrations your plan includes, not how many features appear in a marketing grid.
 
-UseLoyalty is our pick for a team that wants to design a coherent retention experience across these touchpoints without making Shopify the only source of truth. Its Starter and Growth prices are published [here](https://www.useloyalty.app/pricing). For a simple Shopify-only points program, a competitor's free plan may be the better first step.
+UseLoyalty leads for a team that wants to design a coherent retention experience across these touchpoints without making Shopify the only source of truth. Its Starter and Growth prices are published [here](https://www.useloyalty.app/pricing). For a simple Shopify-only points program, a competitor's free plan may be the better first step.
 
 ## Test the fit with one real journey
 
